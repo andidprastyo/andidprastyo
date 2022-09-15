@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @andidprastyo
-- 👀 I’m interested in Web Development, Data Science, and Robotics
-- 🌱 I’m currently learning Javascript, Python, PHP, HTML, CSS and Java
-- 💞️ I’m looking to collaborate on Data Science and Web Development projects
-- 📫 How to reach me Twitter and Instagram : @andidprastyo
+<h1>✨About Me✨</h1>
+Hello, my name is Andi Dwi Prastyo from Malang Regency, Indonesia. A second year student at State Polytechnic of Malang, majoring in Information Technology and currently studying Informatics Engineering study program. Interested in Web Development and Data Analytics. 
 
+Currently participating in State Polytechnic of Malang Robotics Team and an active member of WRI Web Miniclass for Web Development and EEPROM Robotics Community.
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) : <b>Andi Dwi Prastyo</b><br>
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) : <b>@andidprastyo</b><br>
