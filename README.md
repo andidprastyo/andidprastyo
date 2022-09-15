@@ -1,4 +1,4 @@
-<h1🚀About Me</h1>
+<h1>🚀About Me</h1>
 Hello, my name is Andi Dwi Prastyo from Malang Regency, Indonesia. A second year student at State Polytechnic of Malang, majoring in Information Technology and currently studying Informatics Engineering study program. Interested in Web Development and Data Analytics. 
 <br>
 Currently participating in State Polytechnic of Malang Robotics Team and an active member of WRI Web Miniclass for Web Development and EEPROM Robotics Community.
