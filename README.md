@@ -19,6 +19,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andidprastyo&show_icons=true&locale=en&layout=compact" alt="andidprastyo" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andidprastyo&show_icons=true&locale=en" alt="andidprastyo" /></p>
+
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andidprastyo&" alt="andidprastyo" /></p>
