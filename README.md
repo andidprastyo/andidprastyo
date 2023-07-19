@@ -1,11 +1,9 @@
 [![@andidprastyo's Holopin board](https://holopin.io/api/user/board?user=andidprastyo)](https://holopin.io/@andidprastyo)
  
 <h1 align="center">Hi 👋, I'm Andi Dwi Prastyo</h1>
-<h3 align="center">Undergraduate Student at State Polytechnic of Malang, majoring in Information Technology and currently enrolled in Informatics Engineering study program.</h3>
+<h3 align="center">Undergraduate Student at State Polytechnic of Malang, majoring in Information Technology and currently enrolled in Informatics Engineering study program. Currently interested in Statistics, Data Analysis and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andidprastyo&label=Profile%20views&color=0e75b6&style=flat" alt="andidprastyo" /> </p>
-
-Currently interested in Statistics, Data Analysis and Machine Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
