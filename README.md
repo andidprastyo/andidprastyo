@@ -1,7 +1,7 @@
 # 👨🏽‍💻 About Me :
 ### Undergraduate IT Student at <b>State Polytechnic of Malang</b>, enrolled in <b>Informatics Engineering Program</b>.<br>
 <br>
-### Interested in the field of :
+Interested in the field of :
 <ul>
   <li><b>📈 Computational Statistics</b></li>
   <li><b>📊 Data Analysis</b></li>
@@ -19,10 +19,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andidprastyo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andidprastyo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andidprastyo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=andidprastyo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
