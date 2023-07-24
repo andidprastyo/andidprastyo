@@ -1,10 +1,11 @@
 # 👨🏽‍💻 About Me :
-Undergraduate IT Student at <b>State Polytechnic of Malang</b>, enrolled in <b>Informatics Engineering Program</b>.<br>
-Interested in the field of :
+##### Undergraduate IT Student at <b>State Polytechnic of Malang</b>, enrolled in <b>Informatics Engineering Program</b>.<br>
+<br>
+##### Interested in the field of :
 <ul>
-  <li>📈 Computational Statistics</li>
-  <li>📊 Data Analysis</li>
-  <li>🤖 Machine Learning</li>
+  <li><b>📈 Computational Statistics</b></li>
+  <li><b>📊 Data Analysis</b></li>
+  <li><b>🤖 Machine Learning</b></li>
 </ul>
 
 # 🌐 Socials:
