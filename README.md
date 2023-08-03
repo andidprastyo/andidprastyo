@@ -4,7 +4,7 @@
 <b>Interested in the field of :</br>
 <ul>
   <li><b>📈 Computational Statistics</b></li>
-  <li><b>📊 Data Analysis</b></li>
+  <li><b>📊 Data Science</b></li>
   <li><b>🤖 Machine Learning</b></li>
 </ul>
 
