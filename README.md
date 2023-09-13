@@ -1,4 +1,6 @@
-<p align='center'>![til](./Assets/cigarette.gif)</p>
+<p align='center'>
+  <img src='./Assets/cigarette.gif'>
+</p>
 
 # 👨🏽‍💻 About Me :
 ### Undergraduate IT student at State Polytechnic of Malang.<br>
