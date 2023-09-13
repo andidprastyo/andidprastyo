@@ -1,3 +1,5 @@
+![til](./Assets/cigarette.gif)
+
 # 👨🏽‍💻 About Me :
 ### Undergraduate IT student at State Polytechnic of Malang.<br>
 
