@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./Assets/cigarette.gif'>
+  <img src='./Assets/keyboard.gif'>
 </p>
 
 # 👨🏽‍💻 About Me :
