@@ -3,7 +3,7 @@
 </h2>
 
 <p align='center'>
-   A Data Enthusiast with a strong passion in Data Science, Machine Learning, and Statistics.
+   <b>A Data Enthusiast with a strong passion in Data Science, Machine Learning, and Statistics.</b>
 </p>
 
 <p align='center'>
