@@ -3,7 +3,7 @@
 </h2>
 
 <p align='center'>
-   Undergraduate IT Student in <b>State Polytechnic of Malang</b>. Currently learning about Data Science, Machine Learning, and Statistics using python.
+   A Data Enthusiast with a strong passion in Data Science, Machine Learning, and Statistics.
 </p>
 
 <p align='center'>
