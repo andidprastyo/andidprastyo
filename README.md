@@ -22,7 +22,7 @@ An undergraduate IT student from State Polytechnic of Malang. I'm passionate abo
 
 You can reach me through the following channels:
 
-- Email: [andidprasyo@gmail.com](mailto:andidprasyo@gmail.com)
+- Email: [andidprasyo@gmail.com](mailto:andidprastyo@gmail.com)
 - LinkedIn: [Andi Dwi Prastyo](https://www.linkedin.com/in/andidprastyo)
 - Twitter: [@andidprastyo](https://twitter.com/andidprastyo)
 - GitHub: [andidprastyo](https://github.com/andidprastyo)
