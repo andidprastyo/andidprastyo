@@ -8,22 +8,17 @@
 </div>
 
 ### 📚 Who am I ?
-<hr>
 
 An undergraduate IT student from State Polytechnic of Malang. I'm passionate about learning new things, especially in the field of Data Science and Web Development. Currently working as a Software Engineer intern.
 
 ### 🛠️ Tools and Technologies
-<hr>
 
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![opensearch](https://img.shields.io/badge/opensearch-005571?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
-
-
 ### 📫 Contact Me
-<hr>
 
 You can reach me through the following channels:
 
