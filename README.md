@@ -1,8 +1,9 @@
 
 <div align="center">
 
-![Keyboard](./Assets/keyboard.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA4F7&random=false&width=435&lines=Hello%2C+I'm+Andi.)](https://git.io/typing-svg)
+  ![Keyboard](./Assets/keyboard.gif)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA4F7&random=false&width=435&lines=Hello%2C+I'm+Andi.)](https://git.io/typing-svg)
 
 </div>
 
