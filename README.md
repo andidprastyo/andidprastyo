@@ -3,7 +3,7 @@
 
 ![Keyboard](./Assets/keyboard.gif)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hello%2C+I'm+Andi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EA4F7&center=true&random=false&width=435&lines=Hello%2C+I'm+Andi.)](https://git.io/typing-svg)
 
 </div>
 
