@@ -9,7 +9,7 @@
 
 ### 📚 Who am I ?
 
-An undergraduate IT student from State Polytechnic of Malang. I'm passionate about learning new things, especially in the field of Data Science and Web Development. Currently working as a Software Engineer intern.
+An undergraduate IT student from State Polytechnic of Malang. I'm passionate about learning new things, especially in the field of Data Science and Web Development. Currently working as a Data Scientist intern.
 
 ### 🛠️ Tools and Technologies
 
